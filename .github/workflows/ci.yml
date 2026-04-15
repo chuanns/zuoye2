@@ -2,7 +2,7 @@ name: Simple Java CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 jobs:
   test:
